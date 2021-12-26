@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/arity-2.1.7-AngleFixed.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/arity-2.1.7-AngleFixed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
